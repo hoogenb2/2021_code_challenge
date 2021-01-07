@@ -11,8 +11,8 @@ def solution(floor):
     ... [0, 0, 0, 0],
     ... [1, 0, 1, 0],
     ... [1, 1, 1, 0] ]
-     >>> solution(floor3)
-
+    >>> solution(floor3)
+    7
     >>> floor4 = [
     ... [0, 0, 0, 0],
     ... [0, 0, 1, 1],
