@@ -21,6 +21,13 @@ def solution(floor):
     >>> solution(floor4)
     7
     """
+
+    
+
+
+
+
+    #  Attempt 1
     j = 0
     i = 0
     count = 1
